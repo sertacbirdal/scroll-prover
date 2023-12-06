@@ -3,7 +3,6 @@
 ![issues](https://img.shields.io/github/issues/scroll-tech/scroll-prover)
 
 ## Usage
-
 ### Prerequisite
 
 Install Solidity compiler `solc` of version `0.8.19` via [svm-rs](https://github.com/alloy-rs/svm-rs):
